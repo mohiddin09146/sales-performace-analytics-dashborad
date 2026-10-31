@@ -24,3 +24,5 @@ To analyze sales performance across time, regions, and products and deliver busi
 . Electronics products drive the majority of revenue
 . North region contributes the highest share of sales
 . Sales show seasonal peaks in mid-year months
+
+dashboard demo (https://github.com/mohiddin09146/sales-performace-analytics-dashborad/blob/main/Screenshot%202026-10-31%20220147.png)
